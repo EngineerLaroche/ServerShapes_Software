@@ -19,4 +19,4 @@ Sinon, à partir de votre IDE, démarrer le 'serveurForme.jar' et compilez le lo
 
 ## Résultat
 
-![alt text](https://github.com/k1n6ar3a/ServerShapes_Software/blob/master/delivery_point_map/ResultatFormes.jpg)
+![alt text](https://github.com/k1n6ar3a/ServerShapes_Software/blob/master/ReadmeImg/ResultatFormes.jpg)
